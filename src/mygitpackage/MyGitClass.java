@@ -10,5 +10,9 @@ public class MyGitClass {
 	System.out.println("My third commit");
 	System.out.println("My third commit");	
 System.out.println("git hup 12 satır");
+System.out.println("git hup 13 satır");		
+		
+		
+		
 }
 }
